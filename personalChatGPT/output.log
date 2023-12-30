@@ -1,0 +1,7 @@
+2023-12-29 19:00:25,889 [ERROR] Data directory 'data/data.txt' not found.
+2023-12-29 19:03:29,982 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2023-12-29 19:03:30,393 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2023-12-29 19:03:30,393 [INFO] Retrying request to /embeddings in 0.936989 seconds
+2023-12-29 19:03:31,432 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2023-12-29 19:03:31,433 [INFO] Retrying request to /embeddings in 1.835554 seconds
+2023-12-29 19:03:33,365 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
