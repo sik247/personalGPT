@@ -46,10 +46,12 @@ Run the following commands to test reading the data file:
 ```bash
 python3 chatgpt.py "What is my name"
 ```
-# Expected Output: Harry
+Expected Output: Harry
 
-python3 chatgpt.py "How old is Harry?"
-# Expected Output: 28
+```bash
+python3 chatgpt.py "How old is Harry?"```
+
+Expected Output: 28
 
 Interactive Mode
 Run the following command for interactive mode:
