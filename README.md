@@ -49,16 +49,16 @@ python3 chatgpt.py "What is my name"
 Expected Output: Harry
 
 ```bash
-python3 chatgpt.py "How old is Harry?"```
-
+python3 chatgpt.py "How old is Harry?"
+```
 Expected Output: 28
+
 
 Interactive Mode
 Run the following command for interactive mode:
-
 ```bash
 python3 chatgpt.py
+'''
 
-```
 Notes
 To exit the program at any time, type quit, q, or exit.
